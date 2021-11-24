@@ -5,7 +5,7 @@ Twitter juga merupakan platform media sosial terbesar yang di akses banyak orang
 
 Oleh sebab itu saya mengangkat kasus ini untuk dibuat sebuah aplikasi yang dapat membantu problem tersebut.
 
-Terima Kasih
+Terima Kasih...
 --------------------
 Anggita Putri Anti
 --------------------
