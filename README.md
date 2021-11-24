@@ -9,3 +9,8 @@ Terima Kasih
 --------------------
 Anggita Putri Anti
 --------------------
+Student of Sriwijaya University
+Faculty of Computer Science
+Major of Computer System
+
+follow: @anggitaputri.a
